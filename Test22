@@ -1,0 +1,43 @@
+Changes for Diageo
+
+November 
+
+General Task List BDC - Operation Package Data logic updation - for scrolling down list (Baala , Naveen B)
+	              - Removing 2 fields in BDC and added 1 field                      (Baala , Naveen B)
+______________________________________________________________________________________________________________________________
+
+December
+
+All KPIs              - Calender Issue (Our Side) - December data not properly taken    ( Naveen Kumar VS)
+
+_______________________________________________________________________________________________________________________________
+
+January
+
+General Task List BDC - Decimal , comma differences in 2 systems - different conversions in QLT and Prod  (Baala, Naveen B)
+
+_______________________________________________________________________________________________________________________________
+
+Feb
+
+New Developments      - Measuring Point Enhancement 
+		      - MTTR Report
+
+_______________________________________________________________________________________________________________________________
+
+March
+
+MTTR Report           - Changing Design from Weekly report to Monthly Report
+		      - New Requirement to add filter on Functional Location
+		      - New Requiremnt to add Malfunction Date and time fields in sublist of MTTR
+		      
+_______________________________________________________________________________________________________________________________
+
+April
+
+MTTR Report           - Error Handling due to new filter on Func Location 
+
+MTBF                  - Changing Design from Weekly report to Monthly Report
+		      - Added new colums for ZPMR Order ___ and later again removed them
+
+Maint. Backlog KPI    - New part in logic which was skipped in first phase
